@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@qbitapi/sdk-api": "^0.0.5",
     "antd": "^4.19.2",
     "clsx": "^1.1.1",
     "daisyui": "^2.11.0",
