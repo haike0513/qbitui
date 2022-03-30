@@ -16,7 +16,7 @@
     "noEmit": true,
     "baseUrl": "./",
     "paths": {
-      "@bapp/*": ["src/*"],
+      "@qbitui/*": ["src/*"],
     },
     "jsx": "react-jsx"
   },
